@@ -1,0 +1,9 @@
+vless://23e71031-3a27-4497-aff0-9831e44271fe@vatantuk.sevenploos.com.tr:2126?security=none&type=tcp&headerType=http&host=varzesh3.com&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://efedb328-9a34-47aa-a55d-979504cf6a6b@t.ariyanln.com:5448?security=none&type=tcp&headerType=http&host=excoino.com&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://23e71031-3a27-4497-aff0-9831e44271fe@vatannol.sevenploos.com.tr:2126?security=none&type=tcp&headerType=http&host=varzesh3.com&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://e4640bff-e18f-4af3-a7d8-e6f93eb4f17b@ar1.amirtunel1.indevs.in:999?security=none&type=tcp&headerType=http&host=Mci.ir&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vmess://f0338458-fe5c-da52-5d9f-7961b4f3e353@dd.openaccessnode.com:502?encryption=auto&security=none&fp=&type=tcp&headerType=http&host=refersion.com#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://e3d97326-0914-4269-b11c-65840992b600@104.18.32.47:2053?security=tls&sni=new.hupcloud.com&allowInsecure=1&fp=chrome&type=ws&path=/&host=new.hupcloud.com&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:42538?security=none&type=tcp&headerType=http&host=excoino.com&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMTIxMzg1ZjcwMGE2OTE1@163.171.213.46:11201#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
+vless://76aa0ce6-04df-4b40-9642-a9bdb3efc38d@italy.aparat-movies-download.ir:42538?security=none&type=tcp&headerType=http&host=excoino.com&packetEncoding=xudp&encryption=none#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3
