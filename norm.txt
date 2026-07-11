@@ -45,4 +45,3 @@
 "de.ko.prod.n7.homes"	"VLESS"	""	"8443"	"raw"	"reality"	"Norms"	""	""	""	""	""	""
 "172.64.40.84"	"VLESS"	""	"443"	"ws"	"tls"	"Norms"	""	""	""	""	""	""
 "www.speedtest.net"	"VLESS"	""	"443"	"ws"	"tls"	"Norms"	""	""	""	""	""	""
-"172.64.149.209"	"VLESS"	""	"443"	"ws"	"tls"	"Norms"	""	""	""	""	""	""
